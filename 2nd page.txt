@@ -1,0 +1,14 @@
+<html>
+<head>
+<title>quize</title>
+</head>
+<body bgcolor="sky blue">
+<h1><center> QUIZ AND KNOWLEDGE</h1></center>
+<p><font color="red"><center>A quiz is a form of game or mind sport in which players attempt to answer questions correctly about a certain or variety of subjects.<br>
+ Quizzes can be used as a brief assessment in education and similar fields to measure growth in knowledge, abilities, or skills.<br>
+ They can also be televised for entertainment purposes, often in a game show format.<br></center></font></p>
+<center><img src="images1.jpg" align="middle" height=600 width=600 border=4></center>
+<p><center> TO LEARN QUIZE CLICK BELLOW</center></p>
+<center><a href="https://quizizz.com"> <font color="blue> click here</font></a></center>
+</body>
+</html>
